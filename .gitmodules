@@ -1,0 +1,6 @@
+[submodule "use-package"]
+	path = use-package
+	url = git@github.com:jwiegley/use-package.git
+[submodule "browse-kill-ring"]
+	path = browse-kill-ring
+	url = git@github.com:browse-kill-ring/browse-kill-ring
