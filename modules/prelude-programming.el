@@ -117,7 +117,7 @@
   (when prelude-guru
     (guru-mode +1))
   (prelude-enable-whitespace)
-  (flycheck-mode +1)
+;;  (flycheck-mode +1)
   (prelude-local-comment-auto-fill)
   (prelude-add-watchwords))
 
